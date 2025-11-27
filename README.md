@@ -8,9 +8,13 @@
 - Built-in PHP server
 - Professional interface
 
-## Installation
+## Installation # Explaining 
 ```bash
 git clone https://github.com/chourafimaroc8-dev/MVMONSEF.git
 cd MVMONSEF
 chmod +x install.sh
 ./install.sh
+monsef
+When you got the the victim information you have to do
+Ctrl+C
+monsef log
